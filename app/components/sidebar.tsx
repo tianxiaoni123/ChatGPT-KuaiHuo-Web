@@ -155,7 +155,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          快火-全能人工助手（CHAT GPT)
+          快火-全能AI助手（CHAT GPT)
         </div>
         <div className={styles["sidebar-sub-title"]}>
          加V：TT5168668领取免费额度
